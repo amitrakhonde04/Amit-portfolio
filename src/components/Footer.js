@@ -3,9 +3,10 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <p>&copy; 2024 My Portfolio</p>
+      <p> Made with <i class="fa fa-heart pulse" style={{color: "#f52424",}}></i> by Amit G Rakhonde</p>
     </footer>
   );
 };
 
 export default Footer;
+
