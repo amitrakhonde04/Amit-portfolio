@@ -15,7 +15,7 @@ const projects = [
     title: "Portfolio using Chat_GPt",
     // description: "This is a brief description of Project Two.",
     image: project2Image,
-    link: "#"
+    link: "https://github.com/amitrakhonde04/Amit-portfolio"
   }
   // ,
   // {
